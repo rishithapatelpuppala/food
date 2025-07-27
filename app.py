@@ -7,7 +7,7 @@ st.markdown("""
     <h1 style='text-align: center; color: #ff7043;'>Home-Cooked Food, Delivered to Your Door</h1>
     <p style='text-align: center;'>Support local home chefs and enjoy fresh, tasty meals with Zavoryaf.</p>
     <div style='text-align: center; margin-top: 20px;'>
-        <a href='https://wa.me/918125432768?text=Hi%2C%20I%20want%20to%20order%20from%20Zavoryaf' target='_blank'>
+        <a href='https://wa.me/917671973258?text=Hi%2C%20I%20want%20to%20order%20from%20Zavoryaf' target='_blank'>
             <button style='background-color:#25D366; color:white; padding: 10px 20px; border:none; border-radius:5px;'>Order on WhatsApp</button>
         </a>
     </div>
